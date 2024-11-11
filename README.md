@@ -1,6 +1,6 @@
 
 
-<h1>Sortedor de números</h1>
+<h1>Carrinho de compras</h1>
 
 <h2>🔖 Sobre</h2>
 <p>Projeto simples de lógica de programação. Um sistema básico simulando um carrinho de compra de uma loja online..</p>
